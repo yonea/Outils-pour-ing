@@ -1,4 +1,4 @@
-package fr.miage.Yoni;
+package fr.miage.Baroukh;
 
 public class Hello {
 }
